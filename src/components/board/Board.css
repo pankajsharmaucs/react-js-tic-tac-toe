@@ -1,0 +1,6 @@
+.boardmain {
+    height: 100vh;
+    background: url('/assets/boardBG.jpg') no-repeat center center fixed;
+    background-size: cover;
+  }
+  

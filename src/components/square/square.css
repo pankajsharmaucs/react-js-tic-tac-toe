@@ -1,0 +1,14 @@
+.btn-3d {
+    border: none;
+    background: linear-gradient(to bottom, #4dabf7, #228be6);
+    color: white;
+    box-shadow: 0 6px #1c7ed6;
+    transition: all 0.1s ease-in-out;
+    font-weight: bold;
+    border-radius: 8px;
+  }
+  
+  .btn-3d:active {
+    box-shadow: 0 2px #1c7ed6;
+    transform: translateY(4px);
+  }
